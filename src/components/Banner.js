@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Pratham`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Computer Science Engineer",  ]'><span className="wrap">{text}</span></span></h1>
                   <p>Computer Science Engineer with hands-on experience in MERN stack development. Skilled in building scalable web apps, RESTful APIs, and managing databases. Proficient in HTML, CSS, JavaScript, Tailwind CSS, and cloud concepts. Experienced in projects like eCommerce, student management, and AI tools.</p>
-                  <button onClick={() => window.open('https://drive.google.com/file/d/1ysZ7BhaR8OeDnULWglFNSevIuM8xNmSO/view?usp=sharing', '_blank')}> Resume <ArrowRightCircle size={25} /></button>
+                  <button onClick={() => window.open('https://drive.google.com/file/d/1ZLHbiSxMg_3Sxs5ArP2AEISt4EtW2HZg/view?usp=sharing', '_blank')}> Resume <ArrowRightCircle size={25} /></button>
 
               </div>}
             </TrackVisibility>
